@@ -1,7 +1,7 @@
 # Files and directories created by pub
 .dart_tool/
 .packages
-
+.idea/
 # Library packages do not typically check in pubspec.lock
 pubspec.lock
 

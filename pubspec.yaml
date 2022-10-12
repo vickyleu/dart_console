@@ -5,7 +5,7 @@ description:
   A helper library for command-line applications that need more control over input/output than the standard library provides.
 
 environment:
-  sdk: '>=2.17.0 <3.0.0'
+  sdk: '>=2.18.0 <3.0.0'
 
 # Explicitly declare that this package works on all desktop platforms.
 platforms:
@@ -21,4 +21,4 @@ dependencies:
 
 dev_dependencies:
   lints: ^2.0.0
-  test: ^1.21.4
+  test: ^1.21.6
